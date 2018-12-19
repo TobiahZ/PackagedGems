@@ -1,14 +1,14 @@
 title: Packaged Gems Podcast
-url: http://localhost:4000
+url: https://tobiahz.github.io/PackagedGems/
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
-download_url: "http://your.fancy.hosting/episodes"
+download_url: "https://tobiahz.github.io/PackagedGems/episodes"
 subtitle: Insights about games from a developers perspective.
 description: Insert a better description here.
 author: Kat Harris, Gavin Bauman, and Tobiah Zarlez
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
-author_url: "http://your.fancy.hosting/"
+author_url: "https://tobiahz.github.io/PackagedGems/"
 
 email: octopod@example.com
 keywords: [insights, gamedev, developers, games]
