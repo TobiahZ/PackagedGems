@@ -1,18 +1,18 @@
-title: Octopod
+title: Packaged Gems Podcast
 url: http://localhost:4000
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
 download_url: "http://your.fancy.hosting/episodes"
-subtitle: Static Site Podcast Publishing for Geeks
-description: My super duper cool podcast.
-author: Uncle Octopod
+subtitle: Insights about games from a developers perspective.
+description: Insert a better description here.
+author: Kat Harris, Gavin Bauman, and Tobiah Zarlez
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
 author_url: "http://your.fancy.hosting/"
 
 email: octopod@example.com
-keywords: [octopod, podcast, magic]
-itunes_categories: [Technology]
+keywords: [insights, gamedev, developers, games]
+itunes_categories: [Video Games]
 episodes_per_feed_page: 100
 
 player_theme: default # default | "default-dark" | legacy | minimal | republica
