@@ -1,0 +1,45 @@
+{"version": "https://jsonfeed.org/version/1",
+ "title": "Packaged Gems Podcast",
+ "home_page_url": "http://localhost:4000/",
+ "feed_url": "http://localhost:4000/feed.json",
+ "description": "Insert a better description here.",
+ "user_comment": "Insert a better description here.",
+ "icon": "http://localhost:4000/apple-touch-icon-precomposed.png",
+ "favicon": "http://localhost:4000/favicon.ico",
+ "expired": false,
+ "author": {
+   "name": "Kat Harris, Gavin Bauman, and Tobiah Zarlez",
+   "url": "http://your.fancy.hosting/"
+ },
+ "items": [
+   {"id": "dc8a29f9",
+    "title": "Welcome to Jekyll!",
+    "summary": "",
+    "content_text": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.To add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.Jekyll also offers powerful support for code snippets:def print_hi(name)  puts \"Hi, #{name}\"endprint_hi('Tom')#=&gt; prints 'Hi, Tom' to STDOUT.Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.",
+    "content_html": "<p>You’ll find this post in your <code class=\"highlighter-rouge\">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class=\"highlighter-rouge\">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p><p>To add new posts, simply add a file in the <code class=\"highlighter-rouge\">_posts</code> directory that follows the convention <code class=\"highlighter-rouge\">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p><p>Jekyll also offers powerful support for code snippets:</p><figure class=\"highlight\"><pre><code class=\"language-ruby\" data-lang=\"ruby\"><span class=\"k\">def</span> <span class=\"nf\">print_hi</span><span class=\"p\">(</span><span class=\"nb\">name</span><span class=\"p\">)</span>  <span class=\"nb\">puts</span> <span class=\"s2\">\"Hi, </span><span class=\"si\">#{</span><span class=\"nb\">name</span><span class=\"si\">}</span><span class=\"s2\">\"</span><span class=\"k\">end</span><span class=\"n\">print_hi</span><span class=\"p\">(</span><span class=\"s1\">'Tom'</span><span class=\"p\">)</span><span class=\"c1\">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure><p>Check out the <a href=\"https://jekyllrb.com/docs/home\">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href=\"https://github.com/jekyll/jekyll\">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href=\"https://talk.jekyllrb.com/\">Jekyll Talk</a>.</p>",
+    "url": "http://localhost:4000/jekyll/update/2018/12/19/welcome-to-jekyll.html",
+    "date_published": "2018-12-19T12:12:47-08:00",
+    "date_modified": "2018-12-19T12:12:47-08:00",
+    "author": {
+      "name": ""
+    }
+  },
+   {"id": "400f173e",
+    "title": "Episode 0",
+    "summary": "",
+    "content_text": "Show Notes and Links  Well this is the place for the Show Notes.  Send Feedback either in the Github Repo or at the Twitter account @AuaUffCode.",
+    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"http://your.fancy.hosting/episodes/episode0.mp3\",\"ogg\":\"http://your.fancy.hosting/episodes/episode0.ogg\",\"m4a\":\"http://your.fancy.hosting/episodes/episode0.m4a\"},\"coverUrl\":\"http://localhost:4000/img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"http://localhost:4000/2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
+    "url": "http://localhost:4000/2016/03/22/episode0.html",
+    "attachments": [
+      {"url": "http://your.fancy.hosting/episodes/episode0.m4a",
+       "mime_type": "audio/mpeg",
+       "size_in_bytes": "45750"
+      }
+    ],
+    "date_published": "2016-03-22T00:00:00-07:00",
+    "date_modified": "2016-03-22T00:00:00-07:00",
+    "author": {
+      "name": "Arne and Stefan"
+    }
+  }]
+}
