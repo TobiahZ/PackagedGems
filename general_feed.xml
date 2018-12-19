@@ -4,7 +4,7 @@
   <title>Packaged Gems Podcast</title>
   <link href="http://localhost:4000/general_feed.xml" rel="self"/>
   <link href="http://localhost:4000"/>
-  <updated>2018-12-19T12:50:38-08:00</updated>
+  <updated>2018-12-19T14:05:23-08:00</updated>
   <id>http://localhost:4000/</id>
   <author>
     <name>Kat Harris, Gavin Bauman, and Tobiah Zarlez</name>
@@ -42,7 +42,7 @@
       <updated>2016-03-22T00:00:00-07:00</updated>
       <id>http://localhost:4000/2016/03/22/episode0</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://your.fancy.hosting/episodes/episode0.mp3&quot;,&quot;ogg&quot;:&quot;http://your.fancy.hosting/episodes/episode0.ogg&quot;,&quot;m4a&quot;:&quot;http://your.fancy.hosting/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4000/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;http://localhost:4000/2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://tobiahz.github.io/PackagedGems/episodes/episode0.mp3&quot;,&quot;ogg&quot;:&quot;https://tobiahz.github.io/PackagedGems/episodes/episode0.ogg&quot;,&quot;m4a&quot;:&quot;https://tobiahz.github.io/PackagedGems/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4000/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;http://localhost:4000/2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://localhost:4000/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
