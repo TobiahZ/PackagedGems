@@ -1,5 +1,5 @@
 title: Packaged Gems Podcast
-url: https://www.packagedgems.com/
+url: https://www.packagedgems.com
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
 download_url: "https://www.packagedgems.com/episodes"
