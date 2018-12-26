@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Packaged Gems Podcast</title>
-  <link href="https://tobiahz.github.io/PackagedGems//general_feed.xml" rel="self"/>
-  <link href="https://tobiahz.github.io/PackagedGems/"/>
-  <updated>2018-12-26T12:38:52-08:00</updated>
-  <id>https://tobiahz.github.io/PackagedGems//</id>
+  <link href="https://www.packagedgems.com//general_feed.xml" rel="self"/>
+  <link href="https://www.packagedgems.com/"/>
+  <updated>2018-12-26T12:43:33-08:00</updated>
+  <id>https://www.packagedgems.com//</id>
   <author>
     <name>Kat Harris, Gavin Bauman, and Tobiah Zarlez</name>
     <email>show@packagedgems.com</email>
@@ -14,14 +14,14 @@
   
     <entry>
       <title>Episode 0</title>
-      <link href="https://tobiahz.github.io/PackagedGems//2016/03/22/episode0.html"/>
+      <link href="https://www.packagedgems.com//2016/03/22/episode0.html"/>
       <updated>2016-03-22T00:00:00-07:00</updated>
-      <id>https://tobiahz.github.io/PackagedGems//2016/03/22/episode0</id>
+      <id>https://www.packagedgems.com//2016/03/22/episode0</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://tobiahz.github.io/PackagedGems/episodes/episode0.mp3&quot;,&quot;ogg&quot;:&quot;https://tobiahz.github.io/PackagedGems/episodes/episode0.ogg&quot;,&quot;m4a&quot;:&quot;https://tobiahz.github.io/PackagedGems/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;https://tobiahz.github.io/PackagedGems//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;https://tobiahz.github.io/PackagedGems//2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://www.packagedgems.com/episodes/episode0.mp3&quot;,&quot;ogg&quot;:&quot;https://www.packagedgems.com/episodes/episode0.ogg&quot;,&quot;m4a&quot;:&quot;https://www.packagedgems.com/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;https://www.packagedgems.com//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;https://www.packagedgems.com//2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://tobiahz.github.io/PackagedGems//podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://www.packagedgems.com//podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
@@ -32,11 +32,11 @@
 &lt;/ul&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="45750" href="https://tobiahz.github.io/PackagedGems//episodes/episode0.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="45750" href="https://www.packagedgems.com//episodes/episode0.mp3"/>
       
-        <link rel="enclosure" type="audio/ogg; codecs=vorbis" length="58927" href="https://tobiahz.github.io/PackagedGems//episodes/episode0.ogg"/>
+        <link rel="enclosure" type="audio/ogg; codecs=vorbis" length="58927" href="https://www.packagedgems.com//episodes/episode0.ogg"/>
       
-        <link rel="enclosure" type="audio/mp4a-latm" length="212562" href="https://tobiahz.github.io/PackagedGems//episodes/episode0.m4a"/>
+        <link rel="enclosure" type="audio/mp4a-latm" length="212562" href="https://www.packagedgems.com//episodes/episode0.m4a"/>
       
       
     </entry>

@@ -1,25 +1,25 @@
 {"version": "https://jsonfeed.org/version/1",
  "title": "Packaged Gems Podcast",
- "home_page_url": "https://tobiahz.github.io/PackagedGems//",
- "feed_url": "https://tobiahz.github.io/PackagedGems//feed.json",
+ "home_page_url": "https://www.packagedgems.com//",
+ "feed_url": "https://www.packagedgems.com//feed.json",
  "description": "Listen in as three experienced developers share their thoughts about game development.",
  "user_comment": "Listen in as three experienced developers share their thoughts about game development.",
- "icon": "https://tobiahz.github.io/PackagedGems//apple-touch-icon-precomposed.png",
- "favicon": "https://tobiahz.github.io/PackagedGems//favicon.ico",
+ "icon": "https://www.packagedgems.com//apple-touch-icon-precomposed.png",
+ "favicon": "https://www.packagedgems.com//favicon.ico",
  "expired": false,
  "author": {
    "name": "Kat Harris, Gavin Bauman, and Tobiah Zarlez",
-   "url": "https://tobiahz.github.io/PackagedGems/"
+   "url": "https://www.packagedgems.com/"
  },
  "items": [
-   {"id": "a3281462",
+   {"id": "1cd593a5",
     "title": "Episode 0",
     "summary": "",
     "content_text": "Show Notes and Links  Well this is the place for the Show Notes.  Send Feedback either in the Github Repo or at the Twitter account @AuaUffCode.",
-    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://tobiahz.github.io/PackagedGems/episodes/episode0.mp3\",\"ogg\":\"https://tobiahz.github.io/PackagedGems/episodes/episode0.ogg\",\"m4a\":\"https://tobiahz.github.io/PackagedGems/episodes/episode0.m4a\"},\"coverUrl\":\"https://tobiahz.github.io/PackagedGems//img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"https://tobiahz.github.io/PackagedGems//2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://tobiahz.github.io/PackagedGems//podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
-    "url": "https://tobiahz.github.io/PackagedGems//2016/03/22/episode0.html",
+    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://www.packagedgems.com/episodes/episode0.mp3\",\"ogg\":\"https://www.packagedgems.com/episodes/episode0.ogg\",\"m4a\":\"https://www.packagedgems.com/episodes/episode0.m4a\"},\"coverUrl\":\"https://www.packagedgems.com//img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"https://www.packagedgems.com//2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://www.packagedgems.com//podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
+    "url": "https://www.packagedgems.com//2016/03/22/episode0.html",
     "attachments": [
-      {"url": "https://tobiahz.github.io/PackagedGems/episodes/episode0.ogg",
+      {"url": "https://www.packagedgems.com/episodes/episode0.ogg",
        "mime_type": "audio/mpeg",
        "size_in_bytes": "45750"
       }
