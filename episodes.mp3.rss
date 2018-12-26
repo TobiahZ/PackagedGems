@@ -18,22 +18,22 @@
 
     <atom:link rel="alternate" href="https://tobiahz.github.io/PackagedGems//episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
 <atom:link rel="alternate" href="https://tobiahz.github.io/PackagedGems//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-    <description>Insert a better description here.
+    <description>Listen in as three experienced developers share their thoughts about game development.
 </description>
-    <lastBuildDate>Wed, 26 Dec 2018 09:41:52 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Dec 2018 12:38:52 -0800</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.9</generator>
 
-    <itunes:summary>Insert a better description here.
+    <itunes:summary>Listen in as three experienced developers share their thoughts about game development.
 </itunes:summary>
     <itunes:author>Kat Harris, Gavin Bauman, and Tobiah Zarlez</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://tobiahz.github.io/PackagedGems//img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>Kat Harris, Gavin Bauman, and Tobiah Zarlez</itunes:name>
-      <itunes:email>octopod@example.com</itunes:email>
+      <itunes:email>show@packagedgems.com</itunes:email>
     </itunes:owner>
-    <managingEditor>octopod@example.com (Kat Harris, Gavin Bauman, and Tobiah Zarlez)</managingEditor>
+    <managingEditor>show@packagedgems.com (Kat Harris, Gavin Bauman, and Tobiah Zarlez)</managingEditor>
     <copyright>CC BY 4.0</copyright>
     <itunes:subtitle>Insights about games from a developers perspective.</itunes:subtitle>
     <itunes:keywords>insights, gamedev, developers, games</itunes:keywords>
@@ -46,8 +46,6 @@
     <itunes:category text="Video Games" />
     
     
-    
-      
     
       
         
