@@ -1,14 +1,14 @@
 title: Packaged Gems Podcast
-url: https://tobiahz.github.io/PackagedGems/
+url: https://www.packagedgems.com/
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
-download_url: "https://tobiahz.github.io/PackagedGems/episodes"
+download_url: "https://www.packagedgems.com/episodes"
 subtitle: Insights about games from a developers perspective.
 description: Listen in as three experienced developers share their thoughts about game development.
 author: Kat Harris, Gavin Bauman, and Tobiah Zarlez
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
-author_url: "https://tobiahz.github.io/PackagedGems/"
+author_url: "https://www.packagedgems.com/"
 
 email: show@packagedgems.com
 keywords: [insights, gamedev, developers, games]
