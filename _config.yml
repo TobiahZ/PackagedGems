@@ -4,13 +4,13 @@ url: https://tobiahz.github.io/PackagedGems/
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
 download_url: "https://tobiahz.github.io/PackagedGems/episodes"
 subtitle: Insights about games from a developers perspective.
-description: Insert a better description here.
+description: Listen in as three experienced developers share their thoughts about game development.
 author: Kat Harris, Gavin Bauman, and Tobiah Zarlez
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
 author_url: "https://tobiahz.github.io/PackagedGems/"
 
-email: octopod@example.com
+email: show@packagedgems.com
 keywords: [insights, gamedev, developers, games]
 itunes_categories: [Video Games]
 episodes_per_feed_page: 100
@@ -27,7 +27,7 @@ date_format: ordinal
 # rsync_delete: true
 
 ### Twiter config, optional
-twitter_nick: my_twitter_handle # Twitter will not be used unless this is set
+# twitter_nick: my_twitter_handle # Twitter will not be used unless this is set
 
 language: en
 explicit: "no" # "yes" | "no" | clean
@@ -38,7 +38,7 @@ license_url: https://creativecommons.org/licenses/by/4.0/
 license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
 
 ### Feed links, optional
-itunes_url: https://itunes.apple.com/at/podcast/myname/id232323
+# itunes_url: https://itunes.apple.com/at/podcast/myname/id232323
 # bitlove_url: https://bitlove.org/myaccount
 # fyyd_url: https://fyyd.de/podcast/myaccount/myid
 # gpodder_url: https://gpodder.net/podcast/mypodcast
@@ -49,15 +49,15 @@ itunes_url: https://itunes.apple.com/at/podcast/myname/id232323
 #  torrent_mp3: http://bitlove.org/example_user/example_podcast_mp3/feed
 
 ### Flattr config, optional
-flattr_uid: # Flattr will not be used unless this is set
-flattr_button: compact # compact | default
-flattr_mode: auto # auto | manual
-flattr_popout:  1 # 1 | 0 (show popout when hovering mouse over button)
-flattr_language: en_GB # available languages see https://api.flattr.com/rest/v2/languages.txt
-flattr_category: audio # available categories see https://api.flattr.com/rest/v2/categories.txt
+# flattr_uid: # Flattr will not be used unless this is set
+# flattr_button: compact # compact | default
+# flattr_mode: auto # auto | manual
+# flattr_popout:  1 # 1 | 0 (show popout when hovering mouse over button)
+# flattr_language: en_GB # available languages see https://api.flattr.com/rest/v2/languages.txt
+# flattr_category: audio # available categories see https://api.flattr.com/rest/v2/categories.txt
 
 ### Disqus comments
-disqus_shortname: # Disqus will not be used unless this is set
+disqus_shortname: packagedgems # Disqus will not be used unless this is set
 disqus_developer: 0 # 1 | 0
 
 ### Isso comments
