@@ -3,6 +3,13 @@ Packaged Gems Podcast - Starring Kat, Gavin and Tobiah
 
 Site generated using Jekyll + Octopod
 
+## To Do List:
+
+* Set up site
+* Set up first episode
+* Figure out episode hosting (Azure could storage?)
+* Automate build process
+
 ## How to post a new episode
 
 Follow the instructions here: https://jekyll-octopod.github.io/usage
