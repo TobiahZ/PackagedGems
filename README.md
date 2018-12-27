@@ -8,7 +8,7 @@ Site generated using Jekyll + Octopod
 
 * Set up site
 * Set up first episode
-* Figure out episode hosting (Azure could storage?)
+* Figure out episode hosting (Azure cloud storage?)
 * Automate build process
 
 ## How to post a new episode
@@ -63,7 +63,7 @@ After setting up, you should be able to have octopod build the site and push the
 4. Push the changes. You should see them live on the site shortly after
 
     ```sh
-    git push.
+    git push
     ```
 
 Afterwards, remember to go back up a directory to get back in the source code in the master branch.
