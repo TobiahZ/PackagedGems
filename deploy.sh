@@ -2,7 +2,7 @@
 
 echo "Publishing podcast"
 
-gem install bundler jekyll
+bundle install
 
 git clone -b gh-pages `git config remote.origin.url` _site
 
