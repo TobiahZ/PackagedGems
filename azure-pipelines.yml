@@ -12,6 +12,7 @@ pool:
 steps:
 - script: touch Gemfile.lock
 - script: chmod a+w Gemfile.lock
+- script: gem install bundler
 - task: Docker@0
   displayName: 'Run Jekyll'
   inputs:
