@@ -10,6 +10,8 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 steps:
+- script: touch Gemfile.lock
+- script: chmod a+w Gemfile.lock
 - task: Docker@0
   displayName: 'Run Jekyll'
   inputs:
