@@ -19,5 +19,7 @@ steps:
     volumes: |
       $(build.sourcesDirectory):/srv/jekyll
       $(build.binariesDirectory):/srv/jekyll/_site
-    containerCommand: './deploy.sh'
+    containerCommand: |
+      jekyll build
+      ./deploy.sh
     detached: false
