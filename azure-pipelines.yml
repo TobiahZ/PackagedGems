@@ -10,9 +10,6 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 steps:
-- script: touch Gemfile.lock
-- script: chmod a+w Gemfile.lock
-- script: gem install bundler
 - task: Docker@0
   displayName: 'Run Jekyll'
   inputs:
@@ -22,5 +19,5 @@ steps:
     volumes: |
       $(build.sourcesDirectory):/srv/jekyll
       $(build.binariesDirectory):/srv/jekyll/_site
+    containerCommand: 'sudo ./deploy.sh'
     detached: false
-- script: './deploy.sh'
